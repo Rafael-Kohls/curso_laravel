@@ -8,7 +8,7 @@ class ContaController extends Controller
 {
     public function index(){
         return view('contas.index');
-    }
+    } 
 
     public function create(){
         return view('contas.create');

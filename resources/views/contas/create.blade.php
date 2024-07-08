@@ -11,7 +11,7 @@
 <body>
 
     <a href=" {{ route('conta.index')}} ">Listar</a><br>
-
+ 
     <h2>Cadastrar Conta</h2>
 </body>
 </html>
